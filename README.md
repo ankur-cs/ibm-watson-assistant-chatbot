@@ -54,7 +54,7 @@ ibm-watson-assistant-chatbot/
 
 Clone the Repository
 
-git clone https://github.com/your-username/ibm-watson-assistant-chatbot.git
+git clone https://github.com/ankur-cs/ibm-watson-assistant-chatbot.git
 cd ibm-watson-assistant-chatbot
 
 Install Dependencies
