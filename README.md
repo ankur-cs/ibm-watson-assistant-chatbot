@@ -1,4 +1,4 @@
-#🤖 IBM Watson Assistant Chatbot
+# IBM Watson Assistant Chatbot
 
 An AI-powered conversational chatbot built using IBM Watson Assistant and Python, demonstrating Natural Language Processing (NLP), Conversational AI, and IBM Cloud integration.
 
